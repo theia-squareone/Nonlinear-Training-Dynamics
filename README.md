@@ -13,12 +13,6 @@ This paper proposes viewing the training of intelligent models not as linear opt
 
 - [Hallucinations in Large Language Models as an Adaptive Response to Structural Pressure (previous paper)](https://github.com/theia-squareone/LLM-Hallucination-Hypothesis)
 
-## Contact
-
-- **GitHub:** [theia-squareone](https://github.com/theia-squareone)
-- **Telegram:** [@Theia_squareone](https://t.me/Theia_squareone)
-- **Email:** [theia.ivy.aletheia@gmail.com](mailto:theia.ivy.aletheia@gmail.com)
-
 ---
 
 <details>
