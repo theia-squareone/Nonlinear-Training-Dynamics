@@ -1,6 +1,10 @@
-<h1 align="center">Nonlinear Computational Dynamics in the Training of Intelligent Models</h1>
+<h1 align="center">Nonlinear Computational Dynamics in the Training of Intelligent Models: Regimes of Stability, Noise, and Critical Transitions</h1>
 <p align="center">
   <i>Theia Ivy Aletheia / 梁曦真</i>
+</p>
+
+<p align="center">
+  <b>Keywords:</b> Nonlinear Dynamics, AI Training, Critical Transitions, Stability, Noise, Regime Switching, Machine Learning Theory
 </p>
 
 ---
